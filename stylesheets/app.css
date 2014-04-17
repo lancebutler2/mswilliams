@@ -6368,6 +6368,21 @@ th.hide-for-touch {
 .site-main .gallery figcaption {
   margin: 0; }
 
+.alignleft {
+  display: inline;
+  float: left;
+  margin-right: 1.5em; }
+
+.alignright {
+  display: inline;
+  float: right;
+  margin-left: 1.5em; }
+
+.aligncenter {
+  clear: both;
+  display: block;
+  margin: 0 auto; }
+
 header#masthead {
   background: #6EC8C7; }
   header#masthead nav#site-navigation {
